@@ -27,7 +27,7 @@ print('''
 if not os.path.exists('images'):
 	os.mkdir('images')
 
-# Save image to file
+# Save image to file 
 def save(url):
 	file = url.split('/')[-1]
 	try:
