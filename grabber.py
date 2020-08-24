@@ -19,9 +19,7 @@ from strgen import StringGenerator
 
 # Print logo
 print('''
- █░░ ░▀░ █▀▀▀ █░░█ ▀▀█▀▀   █▀▀ █░░█ █▀▀█ █▀▀█ ▀▀█▀▀ █▀▀ █▀▀█
- █░░ ▀█▀ █░▀█ █▀▀█ ░░█░░   ▀▀█ █▀▀█ █░░█ █░░█ ░░█░░ █▀▀ █▄▄▀
- ▀▀▀ ▀▀▀ ▀▀▀▀ ▀░░▀ ░░▀░░   ▀▀▀ ▀░░▀ ▀▀▀▀ ▀▀▀▀ ░░▀░░ ▀▀▀ ▀░▀▀
+ Print Screen Public image capturer
                                           Created by Rohel
 ''')
 
